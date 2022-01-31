@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Name">Наименование</string>
+    <string name="Expenditure">Расход</string>
+    <string name="Add">Добавить</string>
+</resources>
